@@ -2,15 +2,23 @@
 
 An inspirational quote application - built with less than 5kb of dart code.
 
-Note: The target platform is Android for this application, it does work and run on iOS however I was unable to test on a real iPhone device to check the performance.
-
 ## How to run
+
+Shown below is the Flutter & Dart version which was used for the development of the project and is the recommended version for running the project.
+```
+Flutter 1.2.2 • channel dev • https://github.com/flutter/flutter.git
+Framework • revision 007a415c2a (6 weeks ago) • 2019-02-21 20:22:47 -0800
+Engine • revision f1f19bba8f
+Tools • Dart 2.2.0 (build 2.2.0-dev.2.1 c92d5ca288)
+```
 
 Run the application and it should automatically start playing the music while looping through all the different animations / quotes included in the app.
 
 If you get tired of listening to the music there is a mute button at the top left corner.
 
 Should the quote box get in the way of some of the animations, you can drag it anywhere in the screen.
+
+Note: The target platform is Android for this application, it does work and run on iOS however I was unable to test on a real iPhone device to check the performance.
 
 ## Features
 
