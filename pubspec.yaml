@@ -1,0 +1,46 @@
+name: Inspire
+description: An inspirational quote application - built with less than 5kb of dart code
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+
+dependencies:
+  assets_audio_player: ^1.0.1
+  flare_flutter: 1.2.3
+  flare_dart: 1.2.3
+  audioplayers: 0.10.1
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  fonts:
+    - family: z
+      fonts:
+        - asset: assets/fonts/NotoSerifJP-Regular.otf
+          weight: 400
+        - asset: assets/fonts/NotoSerifJP-Light.otf
+          weight: 300
+        - asset: assets/fonts/NotoSerifJP-ExtraLight.otf
+          weight: 200
+        - asset: assets/fonts/NotoSerifJP-Medium.otf
+          weight: 500
+        - asset: assets/fonts/NotoSerifJP-SemiBold.otf
+          weight: 600
+        - asset: assets/fonts/NotoSerifJP-Bold.otf
+          weight: 700
+        - asset: assets/fonts/NotoSerifJP-Black.otf
+          weight: 800
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/flare/
+    - assets/music/
+    - d.json

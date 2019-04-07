@@ -1,0 +1,53 @@
+{
+  "f": [
+    "assets/flare/1.flr",
+    "assets/flare/2.flr",
+    "assets/flare/3.flr",
+    "assets/flare/4.flr",
+    "assets/flare/5.flr",
+    "assets/flare/6.flr",
+    "assets/flare/7.flr",
+    "assets/flare/8.flr",
+    "assets/flare/12.flr",
+    "assets/flare/10.flr"
+  ],
+
+  "a": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "12",
+    "10"
+  ],
+
+  "q": [
+    "\"The journey of a thousand miles begins with one step.\"",
+    "\"A great accomplishment shouldn't be the end of the road, just the starting point for the next leap forward.\"",
+    "\"The world will not be destroyed by those who do evil, but by those who watch them without doing anything.\"",
+    "\"Extinction is the rule. Survival is the exception.\"",
+    "\"The things you do for yourself are gone when you are gone, but the things you do for others remain as your legacy.\"",
+    "\"Success is not how high you have climbed, but how you make a positive difference to the world.\"",
+    "\"Heal the past, live the present, dream the future.\"",
+    "\"Nothing in all the world is more dangerous than sincere ignorance and conscientious stupidity.\"",
+    "\"You must be the change you wish to see in the world.\"",
+    "\"Only those who risk going too far can possibly find out how far one can go.\""
+  ],
+
+  "s": [
+    "- Lao Tzu",
+    "- Harvey Mackay",
+    "- Albert Einstein",
+    "- Carl Sagan",
+    "- Kalu Ndukwe Kalu",
+    "- Roy T. Bennett",
+    "- Mary Engelbreit",
+    "- Martin Luther King Jr.",
+    "- Gandhi",
+    "- T.S. Eliot"
+  ]
+}
