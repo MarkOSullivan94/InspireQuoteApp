@@ -2,6 +2,8 @@
 
 An inspirational quote application - built with less than 5kb of dart code.
 
+**4923 bytes of Dart code**
+
 ## How to run
 
 Shown below is the Flutter & Dart version which was used for the development of the project and is the recommended version for running the project.
