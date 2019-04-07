@@ -18,6 +18,15 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
+  flutter_launcher_icons: "^0.7.0"
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/f.png"
+  adaptive_icon_background: "assets/e.png"
+  adaptive_icon_foreground: "assets/a-small.png"
+
 flutter:
   fonts:
     - family: z
