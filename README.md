@@ -53,3 +53,5 @@ this app wouldn't be possible.
 - [Sun](https://www.2dimensions.com/a/warlock/files/flare/sun/preview) by warlock
 - [login_screen_bg](https://www.2dimensions.com/a/humazed/files/flare/login_screen_bg/preview) by Ibrahim Ead
 - [T-Rex_2](https://www.2dimensions.com/a/JuanCarlos/files/flare/t-rex_2/preview) by JcToon
+
+Also thanks to for the Royalty Free Music from [Bensound](https://www.bensound.com/royalty-free-music/track/ukulele).
