@@ -103,13 +103,10 @@ class Z extends State<P>
 
   u() {
     setState(() {
-      fa = KeyedSubtree(
-        key: ValueKey('$i'),
-        child: FlareActor(
-          f[i],
-          animation: a[i],
-          fit: BoxFit.cover,
-        ),
+      fa = FlareActor(
+        f[i],
+        animation: a[i],
+        fit: BoxFit.cover,
       );
     });
   }
